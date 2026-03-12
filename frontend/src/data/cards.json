@@ -1,0 +1,18 @@
+[
+    {
+        "id": "strike",
+        "name": "ストライク",
+        "type": "attack",
+        "cost": 1,
+        "damage": 6,
+        "description": "敵に6ダメージを与える"
+    },
+    {
+        "id": "defend",
+        "name": "ディフェンド",
+        "type": "skill",
+        "cost": 1,
+        "block": 5,
+        "description": "5シールドを得る"
+    }
+]
